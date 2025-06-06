@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MovieStar.API.props" />
+</Project>

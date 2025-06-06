@@ -1,0 +1,52 @@
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Ioc.deps.json
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Ioc.dll
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Ioc.pdb
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.AssemblyInfo.cs
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.sourcelink.json
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.dll
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\refint\MovieStar.Infra.Ioc.dll
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.pdb
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\ref\MovieStar.Infra.Ioc.dll
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Ioc.deps.json
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Ioc.dll
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Ioc.pdb
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Application.dll
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Domain.dll
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Data.dll
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Application.pdb
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Domain.pdb
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Data.pdb
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.AssemblyInfo.cs
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.sourcelink.json
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieSta.999C3AF5.Up2Date
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.dll
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\refint\MovieStar.Infra.Ioc.dll
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.pdb
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\ref\MovieStar.Infra.Ioc.dll
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Ioc.deps.json
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Ioc.dll
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Ioc.pdb
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Application.dll
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Domain.dll
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Data.dll
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Application.pdb
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Domain.pdb
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\bin\Debug\net8.0\MovieStar.Infra.Data.pdb
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.csproj.AssemblyReference.cache
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.AssemblyInfo.cs
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.sourcelink.json
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieSta.999C3AF5.Up2Date
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.dll
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\refint\MovieStar.Infra.Ioc.dll
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.pdb
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\ref\MovieStar.Infra.Ioc.dll

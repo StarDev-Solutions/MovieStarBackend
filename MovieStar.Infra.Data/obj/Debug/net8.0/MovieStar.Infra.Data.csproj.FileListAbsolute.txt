@@ -1,0 +1,54 @@
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Infra.Data.deps.json
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Infra.Data.runtimeconfig.json
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Infra.Data.dll
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Infra.Data.pdb
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Domain.dll
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Domain.pdb
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.AssemblyInfo.cs
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.sourcelink.json
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieSta.280E9513.Up2Date
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.dll
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\refint\MovieStar.Infra.Data.dll
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.pdb
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.genruntimeconfig.cache
+C:\Users\Mobile02\Desktop\dev\StarDev\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\ref\MovieStar.Infra.Data.dll
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Infra.Data.deps.json
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Infra.Data.runtimeconfig.json
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Infra.Data.dll
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Infra.Data.pdb
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Domain.dll
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Domain.pdb
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.AssemblyInfo.cs
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.sourcelink.json
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieSta.280E9513.Up2Date
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.dll
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\refint\MovieStar.Infra.Data.dll
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.pdb
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.genruntimeconfig.cache
+C:\Users\arthu\Documents\dev\MovieApp\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\ref\MovieStar.Infra.Data.dll
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.AssemblyInfo.cs
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.sourcelink.json
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.dll
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\refint\MovieStar.Infra.Data.dll
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.pdb
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Infra.Data.deps.json
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Infra.Data.runtimeconfig.json
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Infra.Data.dll
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Infra.Data.pdb
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Domain.dll
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\bin\Debug\net8.0\MovieStar.Domain.pdb
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieSta.280E9513.Up2Date
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\MovieStar.Infra.Data.genruntimeconfig.cache
+C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Data\obj\Debug\net8.0\ref\MovieStar.Infra.Data.dll
