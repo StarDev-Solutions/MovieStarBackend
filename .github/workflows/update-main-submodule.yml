@@ -1,0 +1,42 @@
+name: Atualizar Submódulo em MovieStarMain
+
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+
+jobs:
+  update-submodule:
+    if: github.event.pull_request.merged
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checar o repositório atual
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.MAIN_REPO_TOKEN }}
+          submodules: true
+          persist-credentials: false
+
+      - name: Configurar Git e atualizar submódulo
+        env:
+          TOKEN: ${{ secrets.MAIN_REPO_TOKEN }}
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git clone https://x-access-token:${TOKEN}@github.com/StarDev-Solutions/MovieStarMain.git main-repo
+          cd main-repo
+
+          git config submodule.frontend.url https://x-access-token:${TOKEN}@github.com/StarDev-Solutions/MovieStarBackend.git
+          git submodule update --init --recursive
+
+          cd backend
+          git fetch origin
+          git checkout main
+          git pull origin main
+          cd ..
+
+          git add backend
+          git commit -m "Atualizando submódulo backend automaticamente via GitHub Actions" || echo "Nada para commitar"
+          git push origin main
