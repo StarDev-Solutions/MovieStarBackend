@@ -24,13 +24,13 @@ namespace MovieStar.Application.Services
             await _usuarioRepository.AddAsync(usuario);
         }
 
-        public async Task DeleteAsync(Guid id)
+        public async Task DeleteAsync(string email)
         {
-            //var existente = await _usuarioRepository.GetByEmailAsync(id);
-            //if (existente == null)
-            //    throw new Exception("Usuário não encontrado.");
+            var existente = await _usuarioRepository.GetByEmailAsync(email);
+            if (existente == null)
+                throw new Exception("Usuário não encontrado.");
 
-            //await _usuarioRepository.DeleteAsync(id);
+            await _usuarioRepository.DeleteAsync(existente);
         }
 
         public async Task<IEnumerable<Usuario>> GetAllAsync()

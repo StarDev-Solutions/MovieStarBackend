@@ -19,7 +19,7 @@ namespace MovieStar.Application.DTOs.Request
         [Required(ErrorMessage = "A classificação indicativa é obrigatória.")]
         [Range(0, 18, ErrorMessage = "A classificação indicativa deve estar entre 0 e 18.")]
         int FaixaEtaria,
-        double? Classificacao,
+        double Classificacao,
         [Required(ErrorMessage = "A origem da série é obrigatória.")]
         string Origem,
         List<AvaliacaoRequest>? Avaliacoes,

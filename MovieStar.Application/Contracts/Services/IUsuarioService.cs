@@ -10,6 +10,6 @@ namespace MovieStar.Application.Contracts.Services
         Task<IEnumerable<Usuario>> GetAllAsync();
         Task AddAsync(RegistroRequest usuario);
         Task UpdateAsync(RegistroRequest usuario);
-        Task DeleteAsync(Guid id);
+        Task DeleteAsync(string email);
     }
 }
