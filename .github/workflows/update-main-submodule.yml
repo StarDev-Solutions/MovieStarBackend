@@ -28,7 +28,7 @@ jobs:
           git clone https://x-access-token:${TOKEN}@github.com/StarDev-Solutions/MovieStarMain.git main-repo
           cd main-repo
 
-          git config submodule.frontend.url https://x-access-token:${TOKEN}@github.com/StarDev-Solutions/MovieStarBackend.git
+          git config submodule.backend.url https://x-access-token:${TOKEN}@github.com/StarDev-Solutions/MovieStarBackend.git
           git submodule update --init --recursive
 
           cd backend
