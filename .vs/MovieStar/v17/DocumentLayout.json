@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BMI 01\\Documents\\dev\\MovieStarBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E59982AA-B0A7-4863-9923-8018E7297847}|MovieStar.API\\MovieStar.API.csproj|c:\\users\\bmi 01\\documents\\dev\\moviestarbackend\\moviestar.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59982AA-B0A7-4863-9923-8018E7297847}|MovieStar.API\\MovieStar.API.csproj|solutionrelative:moviestar.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59982AA-B0A7-4863-9923-8018E7297847}|MovieStar.API\\MovieStar.API.csproj|c:\\users\\bmi 01\\documents\\dev\\moviestarbackend\\moviestar.api\\controllers\\filmescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59982AA-B0A7-4863-9923-8018E7297847}|MovieStar.API\\MovieStar.API.csproj|solutionrelative:moviestar.api\\controllers\\filmescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59982AA-B0A7-4863-9923-8018E7297847}|MovieStar.API\\MovieStar.API.csproj|c:\\users\\bmi 01\\documents\\dev\\moviestarbackend\\moviestar.api\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59982AA-B0A7-4863-9923-8018E7297847}|MovieStar.API\\MovieStar.API.csproj|solutionrelative:moviestar.api\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\dev\\MovieStarBackend\\MovieStar.API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "MovieStar.API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\dev\\MovieStarBackend\\MovieStar.API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "MovieStar.API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:40:19.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeriesController.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\dev\\MovieStarBackend\\MovieStar.API\\Controllers\\SeriesController.cs",
+              "RelativeDocumentMoniker": "MovieStar.API\\Controllers\\SeriesController.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\dev\\MovieStarBackend\\MovieStar.API\\Controllers\\SeriesController.cs",
+              "RelativeToolTip": "MovieStar.API\\Controllers\\SeriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:49:20.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmesController.cs",
+              "DocumentMoniker": "C:\\Users\\BMI 01\\Documents\\dev\\MovieStarBackend\\MovieStar.API\\Controllers\\FilmesController.cs",
+              "RelativeDocumentMoniker": "MovieStar.API\\Controllers\\FilmesController.cs",
+              "ToolTip": "C:\\Users\\BMI 01\\Documents\\dev\\MovieStarBackend\\MovieStar.API\\Controllers\\FilmesController.cs",
+              "RelativeToolTip": "MovieStar.API\\Controllers\\FilmesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:46:09.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

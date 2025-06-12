@@ -215,3 +215,10 @@ C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.API\
 C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.API\obj\Debug\net8.0\MovieSta.A84F75A2.Up2Date
 C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.API\obj\Debug\net8.0\MovieStar.API.genruntimeconfig.cache
 C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.API\obj\Debug\net8.0\ref\MovieStar.API.dll
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.API\obj\Debug\net8.0\MovieStar.API.csproj.AssemblyReference.cache
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.API\obj\Debug\net8.0\MovieStar.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.API\obj\Debug\net8.0\MovieStar.API.AssemblyInfoInputs.cache
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.API\obj\Debug\net8.0\MovieStar.API.AssemblyInfo.cs
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.API\obj\Debug\net8.0\MovieStar.API.csproj.CoreCompileInputs.cache
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.API\obj\Debug\net8.0\MovieStar.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.API\obj\Debug\net8.0\MovieStar.API.sourcelink.json

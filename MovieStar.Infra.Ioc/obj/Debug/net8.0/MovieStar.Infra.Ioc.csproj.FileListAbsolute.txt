@@ -50,3 +50,9 @@ C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infr
 C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\refint\MovieStar.Infra.Ioc.dll
 C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.pdb
 C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Infra.Ioc\obj\Debug\net8.0\ref\MovieStar.Infra.Ioc.dll
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.csproj.AssemblyReference.cache
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.AssemblyInfo.cs
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.Infra.Ioc\obj\Debug\net8.0\MovieStar.Infra.Ioc.sourcelink.json

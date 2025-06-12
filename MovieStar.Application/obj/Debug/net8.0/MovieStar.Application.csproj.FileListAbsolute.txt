@@ -42,3 +42,9 @@ C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Appl
 C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Application\obj\Debug\net8.0\refint\MovieStar.Application.dll
 C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Application\obj\Debug\net8.0\MovieStar.Application.pdb
 C:\Users\BMI 01\Documents\dev\StarDev\MovieStar\backend\MovieStar\MovieStar.Application\obj\Debug\net8.0\ref\MovieStar.Application.dll
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.Application\obj\Debug\net8.0\MovieStar.Application.csproj.AssemblyReference.cache
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.Application\obj\Debug\net8.0\MovieStar.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.Application\obj\Debug\net8.0\MovieStar.Application.AssemblyInfoInputs.cache
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.Application\obj\Debug\net8.0\MovieStar.Application.AssemblyInfo.cs
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.Application\obj\Debug\net8.0\MovieStar.Application.csproj.CoreCompileInputs.cache
+C:\Users\BMI 01\Documents\dev\MovieStarBackend\MovieStar.Application\obj\Debug\net8.0\MovieStar.Application.sourcelink.json

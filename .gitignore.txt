@@ -1,0 +1,31 @@
+# Ignore pastas de build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Arquivos gerados
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.g.cs
+*.g.i.cs
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+*.nuget.props
+*.nuget.g.*
+
+# Testes
+TestResults/
+
+# SOs
+.DS_Store
+Thumbs.db
