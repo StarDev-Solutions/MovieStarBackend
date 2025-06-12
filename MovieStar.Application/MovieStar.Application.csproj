@@ -15,4 +15,8 @@
     <ProjectReference Include="..\MovieStar.Domain\MovieStar.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Utils\Hash\" />
+  </ItemGroup>
+
 </Project>

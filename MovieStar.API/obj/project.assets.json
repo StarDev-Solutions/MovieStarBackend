@@ -199,10 +199,10 @@
           "lib/netstandard2.0/_._": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Relational/8.0.15": {
+      "Microsoft.EntityFrameworkCore.Relational/8.0.16": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.15",
+          "Microsoft.EntityFrameworkCore": "8.0.16",
           "Microsoft.Extensions.Configuration.Abstractions": "8.0.0"
         },
         "compile": {
@@ -216,11 +216,11 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/8.0.15": {
+      "Microsoft.EntityFrameworkCore.SqlServer/8.0.16": {
         "type": "package",
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.1.6",
-          "Microsoft.EntityFrameworkCore.Relational": "8.0.15",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.16",
           "System.Formats.Asn1": "8.0.2"
         },
         "compile": {
@@ -1132,7 +1132,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.16",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.15",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.16",
           "MovieStar.Domain": "1.0.0"
         },
         "compile": {
@@ -1460,10 +1460,10 @@
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Relational/8.0.15": {
-      "sha512": "rOge9UqPepLr4fDSbAjH+gMl4TwK7byKgUy66vgsjlwl11n/+MjbYZAYqfrD8mpGDwJ6Nzv2LIIK2fBHDqA+CQ==",
+    "Microsoft.EntityFrameworkCore.Relational/8.0.16": {
+      "sha512": "mZxHVSzGYmQWhvk98JEREmYke+NkBVsCL0q+yN23V3939qxXguSXBvnWc+zO9OfWGpYqzS80ES4I/H+xY33hoA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.relational/8.0.15",
+      "path": "microsoft.entityframeworkcore.relational/8.0.16",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1471,14 +1471,14 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.xml",
-        "microsoft.entityframeworkcore.relational.8.0.15.nupkg.sha512",
+        "microsoft.entityframeworkcore.relational.8.0.16.nupkg.sha512",
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/8.0.15": {
-      "sha512": "Kouryy99RU+YvRpfxJ4+ajaILxindm/Fq67zFBd8Lzikl7k/b9c7Ow5ilIB7anrhh6tUXc2MIHfwDV1AcrQS/g==",
+    "Microsoft.EntityFrameworkCore.SqlServer/8.0.16": {
+      "sha512": "1krdya77j7NJnzS9dG3QCOSpzP6TyShx5rgAop0idnoWNKbxmM8hXTDVif/viUkZvztZeFyCx6XQwUS/0343Eg==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.sqlserver/8.0.15",
+      "path": "microsoft.entityframeworkcore.sqlserver/8.0.16",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1486,7 +1486,7 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
-        "microsoft.entityframeworkcore.sqlserver.8.0.15.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.8.0.16.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
@@ -3281,23 +3281,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BMI 01\\.nuget\\packages\\": {},
+    "C:\\Users\\arthu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.API\\MovieStar.API.csproj",
+      "projectUniqueName": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.API\\MovieStar.API.csproj",
       "projectName": "MovieStar.API",
-      "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.API\\MovieStar.API.csproj",
-      "packagesPath": "C:\\Users\\BMI 01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.API\\obj\\",
+      "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.API\\MovieStar.API.csproj",
+      "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\BMI 01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3306,14 +3306,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj": {
-              "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj"
+            "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj": {
+              "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj"
             }
           }
         }
@@ -3327,7 +3328,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -3357,7 +3359,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

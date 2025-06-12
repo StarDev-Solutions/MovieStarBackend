@@ -9,8 +9,6 @@ namespace MovieStar.Application.Extensions.Mappings
     {
         public MappingDTOs()
         {
-            // - Mapeamento Usuario
-            CreateMap<Usuario, UsuarioResponse>();
 
             // - Mapeamento Genero
             CreateMap<GeneroRequest, Genero>();

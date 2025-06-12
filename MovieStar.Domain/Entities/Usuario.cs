@@ -36,7 +36,7 @@ namespace MovieStar.Domain.Entities
         {
             Email = email;
         }
-        public void AlterarSenha(string senha)
+        public void AtualizarSenha(string senha)
         {
             Senha = senha;
         }

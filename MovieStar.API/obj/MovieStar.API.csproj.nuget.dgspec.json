@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.API\\MovieStar.API.csproj": {}
+    "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.API\\MovieStar.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.API\\MovieStar.API.csproj": {
+    "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.API\\MovieStar.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.API\\MovieStar.API.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.API\\MovieStar.API.csproj",
         "projectName": "MovieStar.API",
-        "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.API\\MovieStar.API.csproj",
-        "packagesPath": "C:\\Users\\BMI 01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.API\\obj\\",
+        "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.API\\MovieStar.API.csproj",
+        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BMI 01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj": {
-                "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj"
+              "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj": {
+                "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj"
               }
             }
           }
@@ -47,7 +48,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -77,24 +79,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Application\\MovieStar.Application.csproj": {
+    "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Application\\MovieStar.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Application\\MovieStar.Application.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Application\\MovieStar.Application.csproj",
         "projectName": "MovieStar.Application",
-        "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Application\\MovieStar.Application.csproj",
-        "packagesPath": "C:\\Users\\BMI 01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Application\\obj\\",
+        "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Application\\MovieStar.Application.csproj",
+        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BMI 01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -103,14 +105,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Domain\\MovieStar.Domain.csproj": {
-                "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Domain\\MovieStar.Domain.csproj"
+              "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Domain\\MovieStar.Domain.csproj": {
+                "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Domain\\MovieStar.Domain.csproj"
               }
             }
           }
@@ -124,7 +127,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -155,24 +159,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Domain\\MovieStar.Domain.csproj": {
+    "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Domain\\MovieStar.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Domain\\MovieStar.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Domain\\MovieStar.Domain.csproj",
         "projectName": "MovieStar.Domain",
-        "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Domain\\MovieStar.Domain.csproj",
-        "packagesPath": "C:\\Users\\BMI 01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Domain\\obj\\",
+        "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Domain\\MovieStar.Domain.csproj",
+        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BMI 01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -181,6 +185,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -198,7 +203,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -219,24 +225,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Data\\MovieStar.Infra.Data.csproj": {
+    "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Data\\MovieStar.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Data\\MovieStar.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Data\\MovieStar.Infra.Data.csproj",
         "projectName": "MovieStar.Infra.Data",
-        "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Data\\MovieStar.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\BMI 01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Data\\obj\\",
+        "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Data\\MovieStar.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BMI 01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -245,14 +251,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Domain\\MovieStar.Domain.csproj": {
-                "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Domain\\MovieStar.Domain.csproj"
+              "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Domain\\MovieStar.Domain.csproj": {
+                "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Domain\\MovieStar.Domain.csproj"
               }
             }
           }
@@ -266,7 +273,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -284,7 +292,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.15, )"
+              "version": "[8.0.16, )"
             }
           },
           "imports": [
@@ -303,24 +311,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj": {
+    "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj",
         "projectName": "MovieStar.Infra.Ioc",
-        "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj",
-        "packagesPath": "C:\\Users\\BMI 01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Ioc\\obj\\",
+        "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Ioc\\MovieStar.Infra.Ioc.csproj",
+        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Ioc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BMI 01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -329,20 +337,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Application\\MovieStar.Application.csproj": {
-                "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Application\\MovieStar.Application.csproj"
+              "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Application\\MovieStar.Application.csproj": {
+                "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Application\\MovieStar.Application.csproj"
               },
-              "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Domain\\MovieStar.Domain.csproj": {
-                "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Domain\\MovieStar.Domain.csproj"
+              "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Domain\\MovieStar.Domain.csproj": {
+                "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Domain\\MovieStar.Domain.csproj"
               },
-              "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Data\\MovieStar.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\BMI 01\\Documents\\dev\\StarDev\\MovieStar\\backend\\MovieStar\\MovieStar.Infra.Data\\MovieStar.Infra.Data.csproj"
+              "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Data\\MovieStar.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\arthu\\Documents\\dev\\MovieStart\\MovieStar.Infra.Data\\MovieStar.Infra.Data.csproj"
               }
             }
           }
@@ -356,7 +365,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -377,7 +387,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

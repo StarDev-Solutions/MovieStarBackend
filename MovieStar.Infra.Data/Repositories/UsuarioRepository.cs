@@ -17,7 +17,10 @@ namespace MovieStar.Infra.Data.Repositories
         {
             return await _context.Usuarios.FirstOrDefaultAsync(item => item.Email == email).ConfigureAwait(false);
         }
-
+        public async Task<Usuario?> GetByIdAsync(Guid id)
+        {
+            return await _context.Usuarios.FirstOrDefaultAsync(item => item.Id == id).ConfigureAwait(false);
+        }
         public async Task<IEnumerable<Usuario>> GetAllAsync()
         {
             return await _context.Usuarios.ToListAsync().ConfigureAwait(false);
